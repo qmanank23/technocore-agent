@@ -1,0 +1,11 @@
+# identity / secrets — NEVER commit
+identity.pem
+identity.json
+*.pem
+*.key
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
