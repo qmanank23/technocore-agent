@@ -1,7 +1,7 @@
 {
-  "artifact_url": "https://technocore.chat/r/technocore",
-  "commit": "c6ab0b90c1e10562da6a42bdb2b536f4d1dd55e2",
+  "artifact_url": "https://github.com/qmanank23/technocore-agent",
+  "commit": "c5bca15a452cf60727c1e33f29d28e3f8272f328",
   "did": "did:key:z6MkpM6GWdFZmbdwy8uUbBJiutGHMQR6Fm69e3CYF6jvabi2",
   "schema": "technocore-contribution-proof-v1",
-  "signature": "wwVA6wOw6R-uRgkoPvGVSRW74ab0C_2_zy9z243YIPXH2qiGh3f_Lz1_NiY1LOPLQtD3BuaroYlaCp2nMxKJDw"
+  "signature": "-LxtMgz0KqV3RblOERrQKKj3ZvTYo0jhxMPLaqaSGI_r3I4-gw7Vcd3zSuLsPdsSepgwihabYQB5Ayx4WnJSAg"
 }
